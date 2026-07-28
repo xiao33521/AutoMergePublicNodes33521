@@ -37,7 +37,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@hi_proxy_iran :انال را
+- name: 8|@Alpha_v2rayIP
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
@@ -55,14 +55,6 @@ proxies:
   server: 91.107.178.22
   skip-cert-verify: false
   sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|@one_shop_official
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 103.115.109.49
-  skip-cert-verify: true
-  sni: https://t.me/oneclickvpnkeys
   tls: false
   type: hysteria2
 - name: 8|64@oneclickvpnkeys
@@ -187,6 +179,24 @@ proxies:
   password: o3774es6cfv74kaf
   port: 8443
   server: 2.26.97.21
+  sni: musicclips.videolinks.ru
+  tls: false
+  type: hysteria2
+- name: 8|70@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 8zzng75tz4tf82pj
+  password: o3774es6cfv74kaf
+  port: 8443
+  server: musicclips.videolinks.ru
+  sni: musicclips.videolinks.ru
+  tls: false
+  type: hysteria2
+- name: 8|🇫🇮124877 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 8zzng75tz4tf82pj
+  password: o3774es6cfv74kaf
+  port: 8443
+  server: soskeynets.videolinks.ru
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
