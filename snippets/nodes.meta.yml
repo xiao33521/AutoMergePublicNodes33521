@@ -30,7 +30,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 9|@meliproxyy
+- name: 9|@V2ray_confiig
   password: 54d2f622-fd71-4f5f-8813-832b68f4ca3b
   port: 8443
   server: 104.165.205.42
@@ -199,7 +199,7 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: '9|برای اتصال دائمی جوین شو☄️ Tel... #2'
+- name: 9|🇵🇱211920 | ⚡️Telegram = t.me/L...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.149
@@ -207,14 +207,14 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: '9|@meliproxyy #1'
+- name: 9|@meliproxyy
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.71
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: '9|@meliproxyy #2'
+- name: '9|@meliproxyy #1'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 31.76.62.148
@@ -249,6 +249,16 @@ proxies:
   server: 152.32.254.68
   skip-cert-verify: false
   sni: nas.aizhzo.com
+  tls: false
+  type: hysteria2
+- fingerprint: chrome
+  name: 9|IR-@VPNine1
+  obfs: salamander
+  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
+  password: ogM_2gHx3Zs4RiT9obZV45bsp9-5HzW7
+  port: 443
+  server: proel.jetservistr.ir
+  sni: wufpel.ir
   tls: false
   type: hysteria2
 - name: '9|@confiig_hub #1'
